@@ -997,10 +997,18 @@
     "language": "Nim",
     "repository": "https://github.com/nim-lang/redis",
     "description": "Redis client for Nim",
-    "authors": [],
+    "authors": ["xmonader"],
     "active": true
   },
 
+  {
+    "name": "redisclient",
+    "language": "Nim",
+    "repository": "https://github.com/xmonader/nim-redisclient",
+    "description": "Redis client for Nim",
+    "authors": [],
+    "active": true
+  },
   {
     "name": "libvmod-redis",
     "language": "VCL",
